@@ -70,8 +70,8 @@ ul
 {
     padding-top: 2cm;
 }
-ul li
+.horizontal li
 {
 display:inline;
-padding-left: 1cm;
+margin: 1cm;
 }
